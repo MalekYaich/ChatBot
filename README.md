@@ -1,9 +1,11 @@
-# ChatBot
+![image](https://github.com/MalekYaich/ChatBot/assets/104535431/87e64aae-6c79-4074-afec-0092210d5160)# ChatBot
 
 ## Project overview : 
 
 This project involves the development of an Arabic-language chatbot designed to answer frequently asked questions in the field of mental health. The chatbot also includes the functionality of sending voice messages.
 The data for the chatbot is collected through web scraping from an online health forum. The collected data is then processed using Natural Language Processing (NLP) algorithms and modeled using machine learning techniques.
+
+<img src="https://scontent.ftun15-1.fna.fbcdn.net/v/t1.15752-9/358579785_587424303582405_1255406463708997442_n.png?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=hNPQK7Wa2LIAX-TaT32&_nc_ht=scontent.ftun15-1.fna&oh=03_AdTIykqhcVHQCjM_ABx_IijVTXKolqTDMw0oGIQEVqmWbA&oe=64CE4C04">
 
 #### The project includes the following files and components:
 
