@@ -1,4 +1,4 @@
-![image](https://github.com/MalekYaich/ChatBot/assets/104535431/87e64aae-6c79-4074-afec-0092210d5160)# ChatBot
+# ChatBot
 
 ## Project overview : 
 
